@@ -1,2 +1,2 @@
 # microtransactions
-A/B testing
+A/B testing exercise I did for a class.
